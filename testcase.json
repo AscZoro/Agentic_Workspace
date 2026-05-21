@@ -1,0 +1,26 @@
+{
+  "C60336078": {
+    "test_case_name": "testcase01",
+    "test_case_details": "preconds:<replace custom_preconds value here>\nsteps:<replace custom_steps value here>\nexpected:<replace custom_expected value here>"
+  },
+  "C53303694": {
+    "test_case_name": "testcase01",
+    "test_case_details": "testcasedetails"
+  },
+  "C53303695": {
+    "test_case_name": "testcase01",
+    "test_case_details": "testcasedetails"
+  },
+  "C60336079": {
+    "test_case_name": "testcase01",
+    "test_case_details": "testcasedetails"
+  },
+  "C53303696": {
+    "test_case_name": "testcase01",
+    "test_case_details": "testcasedetails"
+  },
+  "C53303697": {
+    "test_case_name": "testcase01",
+    "test_case_details": "testcasedetails"
+  }
+}
