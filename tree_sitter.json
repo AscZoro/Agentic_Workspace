@@ -1,0 +1,46 @@
+{
+  "bell_notification_01.py": {
+    "imports": "<extract and put here the imports statements here with '\n'>",
+    "usefixture": "@pytest.mark.usefixtures(\"class_setup_fixture_ota_regression\", \"function_setup_myhp_launch\")",
+    "class": "class Test_Suite_01_Bell_Notifications(object):",
+    "fixture": "<extract and put here the fixtures statements here with '\n'>",
+    "functions": {
+      "def test_01_verify_global_header_navigation_C60336078(self):": "<put the function body here>",
+      "def test_02_verify_global_header_navigation_includes_bellicon_C53303694_C53303695(self):": "<put the function body here>",
+      "def test_03_verify_bellicon_can_be_clicked_mnj(self):": "<put the function body here>"
+    }
+  },
+  "bell_notification_02.py": {
+    "imports": "<extract and put here the imports statements here with '\n'>",
+    "usefixture": "@pytest.mark.usefixtures(\"class_setup_fixture_ota_regression\", \"function_setup_myhp_launch\")",
+    "class": "class Test_Suite_02_Bell_Notifications(object):",
+    "fixture": "<extract and put here the fixtures statements here with '\n'>",
+    "functions": {
+      "def test_01_verify_global_header_navigation_C60336078(self):": "<put the function body here>",
+      "def test_02_verify_global_header_navigation_includes_bellicon_C53303694_C53303695(self):": "<put the function body here>",
+      "def test_03_verify_bellicon_can_be_clicked_mnj(self):": "<put the function body here>"
+    }
+  },
+  "bell_notification_03.py": {
+    "imports": "<extract and put here the imports statements here with '\n'>",
+    "usefixture": "@pytest.mark.usefixtures(\"class_setup_fixture_ota_regression\", \"function_setup_myhp_launch\")",
+    "class": "class Test_Suite_Bell_Notifications(object):",
+    "fixture": "<extract and put here the fixtures statements here with '\n'>",
+    "functions": {
+      "def test_01_verify_global_header_navigation_C60336078(self):": "<put the function body here>",
+      "def test_02_verify_global_header_navigation_includes_bellicon_C53303694_C53303695(self):": "<put the function body here>",
+      "def test_03_verify_bellicon_can_be_clicked_mnj(self):": "<put the function body here>"
+    }
+  },
+  "bell_notification_04.py": {
+    "imports": "<extract and put here the imports statements here with '\n'>",
+    "usefixture": "@pytest.mark.usefixtures(\"class_setup_fixture_ota_regression\", \"function_setup_myhp_launch\")",
+    "class": "class Test_Suite_03_Bell_Notifications(object):",
+    "fixture": "<extract and put here the fixtures statements here with '\n'>",
+    "functions": {
+      "def test_01_verify_global_header_navigation_C60336078(self):": "<put the function body here>",
+      "def test_02_verify_global_header_navigation_includes_bellicon_C53303694_C53303695(self):": "<put the function body here>",
+      "def test_03_verify_bellicon_can_be_clicked_mnj(self):": "<put the function body here>"
+    }
+  }
+}

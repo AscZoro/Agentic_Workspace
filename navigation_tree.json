@@ -1,0 +1,44 @@
+{
+  "tests/windows/hpx_rebranding/print/functionality_codeway/printer_device_page/test_suite_01_printer_device_page.py": {
+    "cids": [
+      "C48455718",
+      "C44026596",
+      "C44256232",
+      "C44225832",
+      "C44226447",
+      "C44244521",
+      "C44223652",
+      "C44223653",
+      "C44255921",
+      "C44255922"
+    ],
+    "page_classes": [
+      "MobileApps/libs/flows/web/hpx/devices_mfe.py",
+      "MobileApps/libs/flows/web/hpx/devices_details_printer_mfe.py"
+    ],
+    "locators": [
+      "resources/ui_map/web/hpx/devices_mfe.json",
+      "resources/ui_map/web/hpx/devices_details_printer_mfe.json"
+    ]
+  },
+  "tests/windows/hpx_rebranding/Framework/app_privacy/test_suite_01_app_privacy.py": {
+    "cids": [
+      "C58769292",
+      "C59522303",
+      "C58769287",
+      "C58769298",
+      "C58769306",
+      "C58769281"
+    ],
+    "page_classes": [
+      "MobileApps/libs/flows/web/hpx/devices_mfe.py",
+      "MobileApps/libs/flows/windows/hpx_rebranding/profile.py",
+      "MobileApps/libs/flows/windows/hpx_rebranding/hpx_settings.py"
+    ],
+    "locators": [
+      "resources/ui_map/web/hpx/devices_mfe.json",
+      "resources/ui_map/windows/hpx_rebranding/profile.json",
+      "resources/ui_map/windows/hpx_rebranding/hpx_settings.json"
+    ]
+  }
+}
